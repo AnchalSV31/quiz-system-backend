@@ -1,9 +1,6 @@
 spring:
   datasource:
     # url: jdbc:mysql://sql12.freesqldatabase.com:3306/sql12816589
-    url:  jdbc:mysql://localhost:3306/quizdb
-    username: root
-    password: "@nchalS31"
     # username: sql12816589
     # password: DtpwPh3aRv
 
